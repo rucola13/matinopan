@@ -560,7 +560,7 @@ iframe {
 .footer {
   height: 80vh;
   padding-left: 15px;
-  background: url(https://github.com/rucola13/mati-pan/blob/main/cafe_desk_black.jpg?raw=true);
+  background: url(/html/img/cafe_desk_black.jpg);
   background-size: cover;
   color: var(--white-color);
 }
